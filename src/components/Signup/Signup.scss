@@ -1,0 +1,14 @@
+.signup {
+  width: 300px;
+  margin: auto;
+  .text-field {
+    padding: 10px 5px;
+    border-radius: 4px;
+    outline-style: none;
+    border: 1px solid #555;
+  }
+  .form-control-radio {
+    display: flex;
+    margin: 20px 0;
+  }
+}
