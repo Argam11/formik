@@ -12,7 +12,7 @@ const validationSchema = Yup.object({
 
 const Form = () => {
   const onSubmit = (v) => {
-    console.log(v);
+    console.log(v, 11);
   };
 
   return (
